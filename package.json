@@ -34,5 +34,22 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "LAP 3 Code Challenge",
+  "main": "index.js",
+  "devDependencies": {
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solo-vlada/lap3-code-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solo-vlada/lap3-code-challenge/issues"
+  },
+  "homepage": "https://github.com/solo-vlada/lap3-code-challenge#readme"
 }
