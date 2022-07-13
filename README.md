@@ -21,6 +21,7 @@ In the Form folder
 - Created a Form component which allows users to input a gitHub username 
 - Fetched Git API using axios
 - Added handleInput and handleSubmit functions 
+- used useNavigate to open individual repo pages on click 
 
 
 In index.js 
